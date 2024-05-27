@@ -17,7 +17,7 @@ function App() {
     <QueryClientProvider client={queryClient}>
       <ReactQueryDevtools />
       {/* <Router> */}
-      <Router basename={'/CNU_Blog/'}>
+      <Router basename={'/CNU_BLOG/'}>
         <Routes>
           <Route element={<Header />}>
             <Route element={<Layout />}>
