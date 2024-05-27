@@ -1,5 +1,5 @@
 // import { useEffect, useState } from 'react';
-import { useParams, Link, useNavigate, Params } from 'react-router-dom';
+import { useParams, Link, Params } from 'react-router-dom';
 import styled from '@emotion/styled';
 // import { deletePostById, getPostById } from '../api';
 // import { IPost } from '../api/types';

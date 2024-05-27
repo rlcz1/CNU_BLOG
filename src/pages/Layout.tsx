@@ -1,6 +1,6 @@
 import { NavLink, Outlet } from 'react-router-dom';
 import styled from '@emotion/styled';
-import img from '../assets/NOTHING_HERE.jpg';
+// import img from '../assets/NOTHING_HERE.jpg';
 
 const Nav = styled.div`
   display: flex;
